@@ -1,4 +1,8 @@
-# vue_template
+# QwikGeo Website
+
+URL: https://qwikgeo.com/
+
+This repo is created to host QwikGeo's website code.
 
 ## Project setup
 ```
