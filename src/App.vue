@@ -12,8 +12,9 @@
           contain
           src="/qwikgeo.png"
           transition="scale-transition"
-          width="60"
+          width="40"
         />
+        QwikGeo
       </div>
 
       <v-spacer></v-spacer>
